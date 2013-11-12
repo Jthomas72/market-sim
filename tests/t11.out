@@ -1,0 +1,19 @@
+2: Lisa entered store
+3: Homer entered store
+5: Bart entered store
+27: Maggie entered store
+30: Homer done shopping
+30: Maggie done shopping
+30: Homer started checkout with checker 0
+30: Maggie started checkout with checker 1
+37: Maggie stole $500 and 1 item from checker 1
+38: Lisa done shopping
+47: Lisa started checkout with checker 1
+48: Homer paid $45 for 9 items to checker 0
+71: Lisa paid $60 for 12 items to checker 1
+74: Bart done shopping
+74: Bart started checkout with checker 0
+120: Bart paid $115 for 23 items to checker 0
+registers[0] = $660
+registers[1] = $60
+time = 121

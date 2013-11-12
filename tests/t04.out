@@ -1,0 +1,113 @@
+1: Rod entered store
+4: Homer entered store
+8: Patty entered store
+8: Ned entered store
+9: Marge entered store
+9: Sideshow entered store
+11: Burns entered store
+11: Moe entered store
+11: Edna entered store
+12: Bart entered store
+16: Itchy entered store
+18: Apu entered store
+19: Grampa entered store
+19: Maude entered store
+19: Homer done shopping
+19: Homer started checkout with checker 0
+20: Edna done shopping
+20: Edna started checkout with checker 1
+21: Marge done shopping
+21: Apu done shopping
+21: Marge started checkout with checker 2
+21: Apu started checkout with checker 3
+22: Selma entered store
+23: Lisa entered store
+23: Apu paid $5 for 1 item to checker 3
+26: Edna paid $15 for 3 items to checker 1
+29: Homer paid $25 for 5 items to checker 0
+29: Marge paid $20 for 4 items to checker 2
+39: Wiggum entered store
+40: Maude done shopping
+40: Maude started checkout with checker 0
+41: Patty done shopping
+41: Ned done shopping
+41: Patty started checkout with checker 1
+41: Ned started checkout with checker 2
+42: Sideshow done shopping
+42: Bart done shopping
+42: Wiggum done shopping
+42: Sideshow started checkout with checker 3
+43: Grampa done shopping
+44: Burns done shopping
+48: Patty stole $515 and 11 items from checker 1
+48: Bart started checkout with checker 1
+49: Hibbert entered store
+49: Sideshow stole $505 and 11 items from checker 3
+49: Wiggum started checkout with checker 3
+50: Smithers entered store
+52: Rod done shopping
+54: Maude paid $35 for 7 items to checker 0
+54: Grampa started checkout with checker 0
+55: Maggie entered store
+55: Bart stole $0 and 10 items from checker 1
+55: Burns started checkout with checker 1
+56: Wiggum stole $0 and 1 item from checker 3
+56: Rod started checkout with checker 3
+61: Selma done shopping
+63: Ned paid $55 for 11 items to checker 2
+63: Selma started checkout with checker 2
+70: Grampa paid $40 for 8 items to checker 0
+71: Krusty entered store
+71: Moe done shopping
+71: Moe started checkout with checker 0
+77: Burns paid $55 for 11 items to checker 1
+78: Moe stole $600 and 20 items from checker 0
+83: Lisa done shopping
+83: Lisa started checkout with checker 0
+88: Scratchy entered store
+89: Selma paid $65 for 13 items to checker 2
+90: Barney entered store
+90: Seymour entered store
+90: Rod paid $85 for 17 items to checker 3
+91: Maggie done shopping
+91: Maggie started checkout with checker 1
+93: Seymour done shopping
+93: Seymour started checkout with checker 2
+95: Seymour paid $5 for 1 item to checker 2
+106: Hibbert done shopping
+106: Hibbert started checkout with checker 2
+107: Smithers done shopping
+107: Smithers started checkout with checker 3
+112: Willie entered store
+114: Barney done shopping
+115: Maggie paid $60 for 12 items to checker 1
+115: Barney started checkout with checker 1
+122: Barney stole $115 and 8 items from checker 1
+123: Lisa paid $100 for 20 items to checker 0
+124: Scratchy done shopping
+124: Scratchy started checkout with checker 0
+131: Scratchy stole $100 and 12 items from checker 0
+144: Hibbert paid $95 for 19 items to checker 2
+145: Smithers paid $95 for 19 items to checker 3
+158: Krusty done shopping
+158: Krusty started checkout with checker 0
+165: Krusty stole $0 and 29 items from checker 0
+187: Willie done shopping
+187: Willie started checkout with checker 0
+190: Otto entered store
+194: Willie stole $0 and 25 items from checker 0
+200: Todd entered store
+217: Otto done shopping
+217: Otto started checkout with checker 0
+235: Otto paid $45 for 9 items to checker 0
+257: Todd done shopping
+257: Todd started checkout with checker 0
+268: Itchy done shopping
+268: Itchy started checkout with checker 1
+275: Itchy stole $0 and 84 items from checker 1
+295: Todd paid $95 for 19 items to checker 0
+registers[0] = $140
+registers[1] = $0
+registers[2] = $740
+registers[3] = $180
+time = 296
